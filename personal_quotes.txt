@@ -1,4 +1,4 @@
 Personal quote 1
 
-Personal quoteTWO from masterbranch
+Personal quoteTWO from masterbranch personal_quotes3
 
