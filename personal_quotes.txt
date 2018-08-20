@@ -1,4 +1,4 @@
-Personal quote 1
 
-Personal quoteTWO from masterbranch personal_quotes3
+
+Personal quoteTWO from masterbranch personal_quotes3 (added for git diff)
 
