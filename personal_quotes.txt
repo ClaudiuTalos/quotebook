@@ -1,6 +1,4 @@
 Personal quote 1
-<<<<<<< HEAD
-Personal quote 2 from masterbranch
-=======
-Personal quote-T-W-O
->>>>>>> personal_quotes
+
+Personal quoteTWO from masterbranch
+
