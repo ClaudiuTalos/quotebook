@@ -1,1 +1,2 @@
 Personal quote 1
+Personal quote 2 from masterbranch
