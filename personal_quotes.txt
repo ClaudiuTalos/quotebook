@@ -1,4 +1,5 @@
 
 
 Personal quoteTWO from masterbranch personal_quotes3 (added for git diff)
+new quote1
 
