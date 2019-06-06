@@ -3,3 +3,4 @@ humor line2
 humor line 3 - third commit (added for git diff)
 line4
 new lineA1
+feature1
