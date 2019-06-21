@@ -8,3 +8,5 @@ dev2
 r1
 b1
 new b1 change
+
+b1 edit on B1 conflit1
