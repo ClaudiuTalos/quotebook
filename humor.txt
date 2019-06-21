@@ -1,4 +1,4 @@
-humor line1
+humor line1-Conflict1-Master
 humor line2
 humor line 3 - third commit (added for git diff)
 line4
@@ -6,5 +6,4 @@ new lineA1
 dev1
 dev2
 r1
-
-b1 -creating conflict1
+Conflict2-Master
