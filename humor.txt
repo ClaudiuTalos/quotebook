@@ -6,4 +6,4 @@ new lineA1
 dev1
 dev2
 r1
-Conflict2-Master
+Conflict2-b1
